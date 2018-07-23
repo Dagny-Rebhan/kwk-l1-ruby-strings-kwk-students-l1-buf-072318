@@ -4,6 +4,6 @@
 
 
 puts "What is your name?"
-guname = gets.chomp
+guest_name = gets.chomp
 
 puts ""
