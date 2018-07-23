@@ -9,4 +9,7 @@ guest_name = gets.chomp
 puts "What is the name of the party?"
 party_name = gets.chomp
 
-puts "When is the party"
+puts "What is the date of the party?"
+date = gets.chomp
+
+puts ""
