@@ -6,4 +6,4 @@
 puts "What is your name?"
 guest_name = gets.chomp
 
-puts ""
+puts "What is the name of the "
